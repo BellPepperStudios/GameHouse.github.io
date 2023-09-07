@@ -3,7 +3,7 @@ html {
   margin: auto;
   font-family: 'Comfortaa', cursive;
 }
-li {
+a {
   width: 200;
   height: 200;
   border-radius: 16px;
