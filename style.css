@@ -6,6 +6,5 @@ html {
 .links {
   width: 200;
   height: 200;
-  p.solid {border-style: solid;}
   border-radius: 16px;
 }
