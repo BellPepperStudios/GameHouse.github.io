@@ -3,3 +3,13 @@ html {
   margin: auto;
   font-family: 'Comfortaa', cursive;
 }
+
+.TopBar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: rgb(12, 99, 214);
+  color: white;
+  height: 40px;
+{
